@@ -1,0 +1,10 @@
+Telecom Customer Churn Prediction Dashboard – Demo Description
+
+This project presents an interactive dashboard for predicting customer churn in the telecom industry. The system uses a machine learning model (Random Forest) trained on the Telco Customer Churn dataset to estimate the likelihood that a customer will leave the service.
+The dashboard allows users to enter key customer details such as tenure months, monthly charges, total charges, contract type, internet service, and tech support. Based on these inputs, the model calculates the probability of churn and displays whether the customer is likely to stay or churn.
+The dashboard is deployed using Streamlit, enabling telecom managers or analysts to interact with the model in real time through a simple web interface.
+
+Demo Link:
+"https://telecom-churn-dashboard-m62qdtxsrs6htqeghnqcw7.streamlit.app/"
+
+This demo demonstrates how machine learning and interactive dashboards can be used to support data-driven decision making in customer retention strategies.
