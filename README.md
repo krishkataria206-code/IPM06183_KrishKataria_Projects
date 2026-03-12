@@ -1,6 +1,7 @@
 Name- Krish Kataria
 Roll No - IPm06183
 Section - B
+
 Projects Repository
 
 This repository contains the work completed as part of my data analytics and machine learning projects. The projects focus on analyzing datasets, applying machine learning techniques, and presenting insights through code, reports, and presentations.
